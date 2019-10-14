@@ -123,6 +123,7 @@ function auto_safeconvert() {
     
     var daftarPostingan = [
       "https://pictures.mediatulis.net/2019/10/please-wait.html",
+      "https://pictures.mediatulis.net/2019/10/please-wait.html",
     ];
     
 
